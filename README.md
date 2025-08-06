@@ -94,32 +94,6 @@ Creative AI combining Stable Diffusion, DistilBERT, and LangGraph for meme gener
 - 🔬 **Kang AI Research Lab** - ML Deployments Team
 - 📊 **Statistics Major** with focus on ML applications
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhasp3@illinois.edu)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-  
-  📱 **(510) 456-8371** | 📍 **SF Bay Area - Greater Chicago Area**
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6366f1" />
-  
-  ⭐️ From [Suhas Palawala](https://github.com/yourusername) - *Building the future, one algorithm at a time*
-</div>
-
 <!--
 **suhaspal/suhaspal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
