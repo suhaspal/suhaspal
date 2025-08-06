@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a Junior at the University of Illinois Urbana-Champaign, passionate about building intelligent systems that solve real-world problems. Currently working on cutting-edge AI research and contributing to the future of automated reasoning systems.
+I'm a junior at the University of Illinois Urbana-Champaign, passionate about building intelligent systems that solve real-world problems. I'm currently working on cutting-edge AI research and contributing to the future of automated reasoning systems.
 
 ## 🛠️ Tech Stack
 
