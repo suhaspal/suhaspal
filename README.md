@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Statistics major with a Computer Science minor** at the University of Illinois Urbana-Champaign, passionate about building intelligent systems that solve real-world problems. Currently working on cutting-edge AI research and contributing to the future of automated reasoning systems.
+I'm a Junior at the University of Illinois Urbana-Champaign, passionate about building intelligent systems that solve real-world problems. Currently working on cutting-edge AI research and contributing to the future of automated reasoning systems.
 
 - 🔬 **Research**: Building "Drama" - an end-to-end AI pipeline for automated data retrieval and factual QA
 - 🏎️ **Formula SAE**: Developing embedded software for electric motorsports at Illini Electric Motorsports
