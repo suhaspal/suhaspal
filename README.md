@@ -2,19 +2,13 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%26+Researcher;Building+Intelligent+Systems;Statistics+%40+UIUC+%7C+CS+Minor)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%26+Researcher;Building+Intelligent+Systems;Statistics+%40+UIUC)
   
 </div>
 
 ## 🚀 About Me
 
 I'm a Junior at the University of Illinois Urbana-Champaign, passionate about building intelligent systems that solve real-world problems. Currently working on cutting-edge AI research and contributing to the future of automated reasoning systems.
-
-- 🔬 **Research**: Building "Drama" - an end-to-end AI pipeline for automated data retrieval and factual QA
-- 🏎️ **Formula SAE**: Developing embedded software for electric motorsports at Illini Electric Motorsports
-- 🤖 **AI Startup**: Creating AI agents for automated code auditing at Andera
-- 📍 **Location**: SF Bay Area ↔️ Greater Chicago Area
-- 🎯 **Focus**: Machine Learning, AI Agents, Data Science, and Embedded Systems
 
 ## 🛠️ Tech Stack
 
