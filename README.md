@@ -50,50 +50,6 @@ I'm a Junior at the University of Illinois Urbana-Champaign, passionate about bu
 
 </div>
 
-## 🔥 Featured Projects
-
-<div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=universal-browsing-agent&theme=tokyonight&hide_border=true" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=atari-pong-agent&theme=tokyonight&hide_border=true" /></a>
-</div>
-
-### 🤖 Universal Browsing Agent
-AI-powered one-shot universal web task automation agent with adaptive planning
-
-### 🎮 Atari Pong Agent  
-DQN-based reinforcement learning AI that masters Pong through game state features
-
-### 🔍 Homicide Statistics Retrieval
-AI pipeline combining advanced web searching and GPT-based data extraction
-
-### 🎨 AI Meme Generator
-Creative AI combining Stable Diffusion, DistilBERT, and LangGraph for meme generation
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
-</div>
-
-## 🎯 Current Focus
-
-- 🔬 **Research**: Working on "Drama" AI pipeline at Kang Lab (SIGMOD 2026 submission)
-- 🚗 **Embedded Systems**: Real-time software for Formula SAE electric vehicle
-- 🤖 **AI Agents**: Developing automated code review systems
-- 📚 **Learning**: Advanced ML deployments and distributed systems
-
-## 🏆 Achievements & Involvement
-
-- 🌟 **Dean's List** at University of Washington
-- 🏎️ **Illini Electric Motorsports** - Software Team Member
-- 🔬 **Kang AI Research Lab** - ML Deployments Team
-- 📊 **Statistics Major** with focus on ML applications
-
 <!--
 **suhaspal/suhaspal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
