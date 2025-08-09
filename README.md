@@ -16,7 +16,7 @@ I'm a junior at the University of Illinois Urbana-Champaign, passionate about bu
 [Atari Pong Agent](https://github.com/suhaspal/atari_pong_reinforcement_learning) - DQN-based reinforcement learning AI that learns Pong through game state features, trained locally\
 [Homicide Statistics Retrieval](https://github.com/suhaspal/Homicide-Data-Retrieval) - AI pipeline combining advanced web searching and GPT-based data extraction\
 [Meme Generator](https://github.com/suhaspal/Meme-Generator) - AI meme generator combining Stable Diffusion (images), DistilBERT (captions), and LangGraph\
-[Battery Management System Viewer](https://github.com/suhaspal/bms-viewer) - Real-Time Battery Management System (BMS) data visualization tool using PyQt5 and python-can\
+[Battery Management System Viewer](https://github.com/suhaspal/bms-viewer) - Real-Time Battery Management System (BMS) data visualization tool using PyQt5 and python-can
 
 ## 🛠️ Tech Stack
 
