@@ -10,13 +10,13 @@
 
 I'm a junior at the University of Illinois Urbana-Champaign, passionate about building intelligent systems that solve real-world problems. I'm currently working on cutting-edge AI research and contributing to the future of automated reasoning systems.
 
-💼 Featured Projects
+## 💼 Featured Projects
 
-[Universal Browsing Agent](https://github.com/suhaspal/web-browser-agent) - AI-powered one shot universal web task automation agent with adaptive planning
-[Atari Pong Agent](https://github.com/suhaspal/atari_pong_reinforcement_learning) - DQN-based reinforcement learning AI that learns Pong through game state features, trained locally
-[Homicide Statistics Retrieval](https://github.com/suhaspal/Homicide-Data-Retrieval) - AI pipeline combining advanced web searching and GPT-based data extraction
-[Meme Generator](https://github.com/suhaspal/Meme-Generator) - AI meme generator combining Stable Diffusion (images), DistilBERT (captions), and LangGraph
-[Battery Management System Viewer](https://github.com/suhaspal/bms-viewer) - Real-Time Battery Management System (BMS) data visualization tool using PyQt5 and python-can
+[Universal Browsing Agent](https://github.com/suhaspal/web-browser-agent) - AI-powered one shot universal web task automation agent with adaptive planning\
+[Atari Pong Agent](https://github.com/suhaspal/atari_pong_reinforcement_learning) - DQN-based reinforcement learning AI that learns Pong through game state features, trained locally\
+[Homicide Statistics Retrieval](https://github.com/suhaspal/Homicide-Data-Retrieval) - AI pipeline combining advanced web searching and GPT-based data extraction\
+[Meme Generator](https://github.com/suhaspal/Meme-Generator) - AI meme generator combining Stable Diffusion (images), DistilBERT (captions), and LangGraph\
+[Battery Management System Viewer](https://github.com/suhaspal/bms-viewer) - Real-Time Battery Management System (BMS) data visualization tool using PyQt5 and python-can\
 
 ## 🛠️ Tech Stack
 
